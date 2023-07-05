@@ -1,0 +1,239 @@
+/* North Col Theme Components CSS
+/  2015-05-16         
+
+/* ---et-line icons--- */
+#web-application-et {
+   padding-top:70px;
+   padding-bottom:120px;
+}
+.et-line-icon-list .et  {
+   display: block;
+   color: #666;
+   padding:14px 0px 14px 0px;
+   border-radius: 0px;
+   text-align: center;
+}
+.et-line-icon-list .et-hover {
+   border:1px solid #ddd;
+   margin: -1px 0 0 -1px;
+   padding:0px 0px 0px 0px;
+   
+}
+.et-line-icon-list .et-hover:hover {
+   background:#ededed;
+}
+.et-line-icon-list .et-hover .et {
+   font-size:32px;
+   width: 70px;
+   margin:0px;
+   padding:19px 0px;
+   display: inline-block;
+   text-align: center;
+   border-right:1px solid #ddd;
+}
+/* --Et-line Icons End-- */
+/* ---Xc icons--- */
+#web-application-xc {
+   padding-top:70px;
+   padding-bottom:120px;
+}
+.xc-icon-list .xc  {
+   display: block;
+   color: #666;
+   padding:14px 0px 14px 0px;
+   border-radius: 0px;
+   text-align: center;
+}
+.xc-icon-list .xc-hover {
+   border:1px solid #ddd;
+   margin: -1px 0 0 -1px;
+   padding:0px 0px 0px 0px;
+   
+}
+.xc-icon-list .xc-hover:hover {
+   background:#ededed;
+}
+.xc-icon-list .xc-hover .xc {
+   font-size:32px;
+   width: 70px;
+   margin:0px;
+   padding:19px 0px;
+   display: inline-block;
+   text-align: center;
+   border-right:1px solid #ddd;
+}
+/* --Et-line Icons End-- */
+
+
+
+a {
+   color: #333;
+   text-decoration: none;
+}
+p { 
+   color:#666;
+}
+b {
+   font-weight:500;
+}
+/* ---Font Awesome Icons--- */
+.icons-page-mp {
+   background:#282828;
+}
+.icons-page-mp h1, .icons-page-mp h1 small  {
+   color:#fff;
+}
+#components-header-a-icons, #components-header-b-icons   {
+   margin:0px;
+   padding:0px;
+   position:relative;
+   overflow:hidden;
+   width:100%;
+}
+#components-header-a-icons h2 {
+   font-size:30px;
+   font-weight:300;
+   text-transform:uppercase;
+   padding:20px 0px 60px 0px;
+   color:#666; 
+}
+#components-header-b-icons h2 {
+   font-size:30px;
+   font-weight:300;
+   text-transform:uppercase;
+   padding-top:40px;
+   color:#666; 
+}
+#web-application {
+   padding-top:70px;
+   padding-bottom:120px;
+}
+.main-icon {
+   margin:30px auto;
+}
+#section-icons-jumbotron {
+   padding:0px 0px 0px 0px;
+   background:#fff;
+   color:#666;
+   position:relative;
+   overflow:hidden;
+   width:100%;
+}
+.fontawesome-icon-list .fa  {
+   display: block;
+   color: #666;
+   padding:12px 0px;
+   border-radius: 0px;
+}
+.fontawesome-icon-list .fa-hover {
+   border:1px solid #ddd;
+   margin: -1px 0 0 -1px;
+   line-height:1;
+}
+.fontawesome-icon-list .fa-hover:hover {
+   background:#ededed;
+}
+.fontawesome-icon-list .fa-hover .fa {
+   font-size:16px;
+   width: 32px;
+   display: inline-block;
+   text-align: left;
+   border-right:1px solid #ddd;
+}
+.icon-text {
+   font-size:15px;
+}
+.icon-text span {
+   margin-right:7px;
+   font-size:15px;
+}
+.icon-text-b  {
+   margin-top:15px;
+   font-size:15px;
+}
+.icon-text-b a  {
+   text-decoration:underline;
+   color:#666;
+}
+.icon-text-b a:hover  {
+   color:#999;
+}
+
+/* ---Buttons--- */
+.buttons-page-mp {
+   background:#282828;
+}
+.buttons-page-mp h1, .buttons-page-mp h1 small  {
+   color:#fff;
+}
+#button-style {
+}
+#button-style h2 {
+   font-weight:300;
+   text-transform:uppercase;
+   color:#666;
+}
+#button-style .btn, #button-style-grey-bgr .btn  {
+   margin-right: 15px;
+   margin-bottom:10px;
+}
+#button-style-grey-bgr {
+   background:#333;
+   color:#666;
+   position:relative;
+   overflow:hidden;
+   width:100%
+}
+#button-style-grey-bgr h2 {
+   color:#fff; 
+}
+
+/* Animations */
+#section-view-room {
+   padding:140px 0px 0px 0px;
+   color:#666;
+   position:relative;
+   overflow:hidden;
+   width:100%
+}
+#section-animations {
+   padding:40px 0px 70px 0px;
+   color:#666;
+   position:relative;
+   overflow:hidden;
+   width:100%
+}
+.bm-remove {
+   margin-bottom: 0!important;
+}
+.tm-larger {
+   margin-top: 40px!important;
+}
+.bm-larger {
+   margin-bottom: 40px!important;
+}
+.show-grid40 { 
+   margin-bottom:40px;
+}   
+#section-animations  .form-control {
+   margin-top:15px;
+}
+#section-animations-demo {
+   padding:0px 0px 80px 0px;
+   color:#333;
+   position:relative;
+   overflow:visible;
+   width:100%;
+}
+#section-animations-demo h2 {
+   font-size:30px;
+   font-weight:300;
+   text-transform:uppercase;
+   padding-bottom:70px;
+   color:#666;
+}
+#section-animations-demo h4 {
+   font-weight:300;
+   text-transform:uppercase;
+   color:#666;
+}
